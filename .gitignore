@@ -5,3 +5,6 @@ models
 *.swp
 *.p
 *.DS_Store
+*.meta
+*.data*
+*.index
